@@ -1,0 +1,10 @@
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_EntityFramework\bin\Debug\ProjectAll_Infrastructure_EntityFramework.exe.config
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_EntityFramework\bin\Debug\ProjectAll_Infrastructure_EntityFramework.exe
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_EntityFramework\bin\Debug\ProjectAll_Infrastructure_EntityFramework.pdb
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_EntityFramework\obj\Debug\ProjectAll_Infrastructure_EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_EntityFramework\obj\Debug\ProjectAll_Infrastructure_EntityFramework.exe
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_EntityFramework\obj\Debug\ProjectAll_Infrastructure_EntityFramework.pdb

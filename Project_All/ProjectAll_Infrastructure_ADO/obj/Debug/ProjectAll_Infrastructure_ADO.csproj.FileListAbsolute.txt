@@ -1,0 +1,6 @@
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_ADO\bin\Debug\ProjectAll_Infrastructure_ADO.exe.config
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_ADO\bin\Debug\ProjectAll_Infrastructure_ADO.exe
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_ADO\bin\Debug\ProjectAll_Infrastructure_ADO.pdb
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_ADO\obj\Debug\ProjectAll_Infrastructure_ADO.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_ADO\obj\Debug\ProjectAll_Infrastructure_ADO.exe
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\ProjectAll_Infrastructure_ADO\obj\Debug\ProjectAll_Infrastructure_ADO.pdb

@@ -1,0 +1,6 @@
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\Project_All.Domain\bin\Debug\Project_All.Domain.exe.config
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\Project_All.Domain\bin\Debug\Project_All.Domain.exe
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\Project_All.Domain\bin\Debug\Project_All.Domain.pdb
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\Project_All.Domain\obj\Debug\Project_All.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\Project_All.Domain\obj\Debug\Project_All.Domain.exe
+C:\Users\Eduardo\documents\visual studio 2013\Projects\Project_All\Project_All.Domain\obj\Debug\Project_All.Domain.pdb
